@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Additional ignores for MacOS and unzipped dbs
+.DS_Store
+unzipped
