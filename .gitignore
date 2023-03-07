@@ -128,9 +128,8 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# Additional ignores for MacOS and unzipped dbs
+# Additional ignores for MacOS
 .DS_Store
-unzipped
 
-im.db
-!im.db.zip
+data/im.db
+!data/im.db.zip
