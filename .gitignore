@@ -131,3 +131,6 @@ dmypy.json
 # Additional ignores for MacOS and unzipped dbs
 .DS_Store
 unzipped
+
+im.db
+!im.db.zip
