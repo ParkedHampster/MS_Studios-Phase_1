@@ -69,7 +69,6 @@ We can be contacted via email at [alisonsjpark@gmail.com \(Alison\)](mailto:alis
 
 ```
 ├── data
-│   ├── im.db
 │   ├── im.db.zip
 │   └── tn.movie_budgets.csv.gz
 ├── images
@@ -79,6 +78,7 @@ We can be contacted via email at [alisonsjpark@gmail.com \(Alison\)](mailto:alis
 │   ├── movie_directors_and_profit_margins.png
 │   └── movie_profits_based_on_budget.png
 ├── LICENSE
+├── Microsoft_Movie_Studio_Presentation.pdf
 ├── microsoft_movie_studio_investigation.ipynb
 └── README.md
 ```
