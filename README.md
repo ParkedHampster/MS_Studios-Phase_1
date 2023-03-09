@@ -60,7 +60,7 @@ Though we believe heavily in the results of our investigation, there were some s
 
 ## For Inquiries, Business Proposals, or Additional Information...
 
-Our process is available in this [Jupyter Notebook](./microsoft_movie_studio_investigation.ipynb) or abbreviated in this [presentation](./REPLACE_ME.pdf).
+Our process is available in this [Jupyter Notebook](./microsoft_movie_studio_investigation.ipynb) or abbreviated in this [presentation](./Microsoft_Movie_Studio_Presentation.pdf).
 
 We can be contacted via email at [alisonsjpark@gmail.com \(Alison\)](mailto:alisonsjpark@gmail.com) or [jmentz@gmx.com \(JD/Jefferson\)](mailto:jmentz@gmx.com)
 
