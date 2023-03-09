@@ -131,5 +131,9 @@ dmypy.json
 # Additional ignores for MacOS
 .DS_Store
 
+# Ignore auto-generated vscode data
+.vscode
+
+# Ignore unpacked sqlite file but not zipped
 data/im.db
 !data/im.db.zip
