@@ -16,7 +16,7 @@ Data used is from IMDB and TheNumbers.com.
 
 IMDB is one of the biggest and detailed database on movie data. We specifically focused on movie_basics, movie_akas, directors, and persons table from IMDB. Budget data was taken from TheNumbers which provided data on production budget, domestic gross earnings, and worldwide gross earnings. 
 
-We beleive that the "success" of a film can be measured by the revenue that it brings in and some big variables that affect the success of a film's directors, the film's market, and the film's budget.
+We believe that the "success" of a film can be measured by the revenue that it brings in and some big variables that affect the success of a film's directors, the film's market, and the film's budget.
 
 TheNumbers has an extensive database of movies matched to their budgets and gross revenues.
 
