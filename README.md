@@ -68,8 +68,6 @@ We can be contacted via email at [alisonsjpark@gmail.com \(Alison\)](mailto:alis
 ## Repository structure
 
 ```
-├── code
-│   └── rm
 ├── data
 │   ├── im.db
 │   ├── im.db.zip
