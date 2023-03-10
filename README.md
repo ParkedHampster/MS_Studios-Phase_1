@@ -16,7 +16,7 @@ Data used is from IMDB and TheNumbers.com.
 
 IMDB is one of the biggest and detailed database on movie data. We specifically focused on movie_basics, movie_akas, directors, and persons table from IMDB. Budget data was taken from TheNumbers which provided data on production budget, domestic gross earnings, and worldwide gross earnings. 
 
-We beleive that the "success" of a film can be measured by the revenue that it brings in and some big variables that affect the success of a film's directors, the film's market, and the film's budget.
+We believe that the "success" of a film can be measured by the revenue that it brings in and some big variables that affect the success of a film's directors, the film's market, and the film's budget.
 
 TheNumbers has an extensive database of movies matched to their budgets and gross revenues.
 
@@ -60,7 +60,7 @@ Though we believe heavily in the results of our investigation, there were some s
 
 ## For Inquiries, Business Proposals, or Additional Information...
 
-Our process is available in this [Jupyter Notebook](./microsoft_movie_studio_investigation.ipynb) or abbreviated in this [presentation](./REPLACE_ME.pdf).
+Our process is available in this [Jupyter Notebook](./microsoft_movie_studio_investigation.ipynb) or abbreviated in this [presentation](./Microsoft_Movie_Studio_Presentation.pdf).
 
 We can be contacted via email at [alisonsjpark@gmail.com \(Alison\)](mailto:alisonsjpark@gmail.com) or [jmentz@gmx.com \(JD/Jefferson\)](mailto:jmentz@gmx.com)
 
@@ -68,10 +68,7 @@ We can be contacted via email at [alisonsjpark@gmail.com \(Alison\)](mailto:alis
 ## Repository structure
 
 ```
-├── code
-│   └── rm
 ├── data
-│   ├── im.db
 │   ├── im.db.zip
 │   └── tn.movie_budgets.csv.gz
 ├── images
@@ -81,6 +78,7 @@ We can be contacted via email at [alisonsjpark@gmail.com \(Alison\)](mailto:alis
 │   ├── movie_directors_and_profit_margins.png
 │   └── movie_profits_based_on_budget.png
 ├── LICENSE
+├── Microsoft_Movie_Studio_Presentation.pdf
 ├── microsoft_movie_studio_investigation.ipynb
 └── README.md
 ```
